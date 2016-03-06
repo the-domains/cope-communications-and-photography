@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[creative writing. inspiring images. affective media.]]></title>
         <description><![CDATA[creative writing. inspiring images. affective media.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://copecommsphoto.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 23:41:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 23:43:39 GMT</lastBuildDate>
+        <atom:link href="http://copecommsphoto.ca/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>welcome to our re-designed and improved CoPe | communications & photography.  we are about creative writing </p>]]></description>
+            <link>http://copecommsphoto.ca/33e50fea-7080-4769-b365-ce1bf4890554/index.html</link>
+            <guid isPermaLink="false">33e50fea-7080-4769-b365-ce1bf4890554</guid>
+            <pubDate>Sun, 06 Mar 2016 23:43:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>i’m not one for the spotlight.  i’d rather impact with subtlety, with verve, in the background.  i arrived a bit later to the game.  i was busy doing my own thing.  i was unconventional.  this was the path that i chose.  the answers eventually became more clear, as they have always been inside and waiting to be extracted.  it just required a little extra time.  but the lessons were there.  and the ideal state of affairs became reality.</p>]]></description>
-            <link>undefined2f7786b9-1f46-4920-a747-a439a1113c37/index.html</link>
+            <link>http://copecommsphoto.ca/2f7786b9-1f46-4920-a747-a439a1113c37/index.html</link>
             <guid isPermaLink="false">2f7786b9-1f46-4920-a747-a439a1113c37</guid>
             <pubDate>Sun, 06 Mar 2016 23:41:30 GMT</pubDate>
         </item>
