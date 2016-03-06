@@ -1,0 +1,1 @@
+# cope-communications-and-photography
