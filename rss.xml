@@ -4,8 +4,15 @@
         <description><![CDATA[CoPe | communications & photography]]></description>
         <link>http://copecommsphoto.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 03:28:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 03:30:35 GMT</lastBuildDate>
         <atom:link href="http://copecommsphoto.ca/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[contact us]]></title>
+            <description><![CDATA[<article><h1>contact us</h1><p>info@copecommunicationsandphotography.ca</p></article>]]></description>
+            <link>http://copecommsphoto.ca/contact-us/index.html</link>
+            <guid isPermaLink="false">b01dc685-d974-4cdb-8401-10147067c5f3</guid>
+            <pubDate>Tue, 08 Mar 2016 03:30:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[our focus]]></title>
             <description><![CDATA[<article><h1>our focus</h1><p>CoPe | communications & photography is a brand focused on creative writing, inspiring images, and affective media.  the motivation for CoPe | is to enhance and ameliorate the perspective of others through positive language and great images.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e47b2d5e45c75936718f8a8d8d882bd9c3b35c52.jpg"></article>]]></description>
