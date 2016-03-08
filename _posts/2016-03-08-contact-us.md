@@ -6,20 +6,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-08T03:30:03.364Z'
-dateModified: '2016-03-08T03:29:50.750Z'
+datePublished: '2016-03-08T03:31:22.050Z'
+dateModified: '2016-03-08T03:30:09.392Z'
 author: []
 related: []
 app_links: []
 title: contact us
+sourcePath: _posts/2016-03-08-contact-us.md
+published: true
 authors: []
 publisher:
   name: Thegrid
   domain: app.thegrid.io
   url: 'https://app.thegrid.io'
   favicon: 'https://app.thegrid.io/images/grid-logo-16.png'
-sourcePath: _posts/2016-03-08-contact-us.md
-published: true
 url: contact-us/index.html
 _context: 'http://schema.org'
 _type: MediaObject
