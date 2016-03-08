@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-08T02:16:39.975Z'
-dateModified: '2016-03-08T02:15:02.725Z'
+datePublished: '2016-03-08T02:58:13.783Z'
+dateModified: '2016-03-08T02:56:34.340Z'
 author: []
 title: life. love. weekend at Kicking Horse Resort
 sourcePath: _posts/2016-03-08-life-love-weekend-at-kicking-horse-resort.md
@@ -24,4 +24,4 @@ _type: Article
 
 ---
 # life. love. weekend at Kicking Horse Resort
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a11e7715-0474-4adb-83ca-24bab4916635.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a7dfa33c4d6fa40a24e466d7a9de0d7182a6c2e.png)
