@@ -17,8 +17,8 @@ keywords:
   - copying
   - comms
 description: 'it was a rejuvenating little holiday to the west coast: vancouver, whistler & the island'
-datePublished: '2016-03-08T01:50:07.993Z'
-dateModified: '2016-03-08T01:50:01.369Z'
+datePublished: '2016-03-08T01:54:04.593Z'
+dateModified: '2016-03-08T01:53:37.829Z'
 author:
   - name: copecp
     url: 'http://twitter.com/copecp'
@@ -42,4 +42,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![it was a rejuvenating little holiday to the west coast&colon; vancouver&comma; whistler & the island](https://pbs.twimg.com/media/Cb7UOEEUMAA6UZQ.jpg:large)
+![it was a rejuvenating little holiday to the west coast: vancouver, whistler & the island](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c33bccc1995ef20abf61fca5e47bbbefec6f107d.jpg)
