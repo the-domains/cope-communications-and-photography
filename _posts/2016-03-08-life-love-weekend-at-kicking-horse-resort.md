@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:9d98d0ff-a03f-4b9f-ae34-8d85a0cee44f'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-03-08T02:16:39.975Z'
+dateModified: '2016-03-08T02:15:02.725Z'
 author: []
-datePublished: '2016-03-08T02:14:53.382Z'
-publisher:
-  domain: ''
-  name: ''
 title: life. love. weekend at Kicking Horse Resort
-dateModified: '2016-03-08T02:12:59.132Z'
 sourcePath: _posts/2016-03-08-life-love-weekend-at-kicking-horse-resort.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: life-love-weekend-at-kicking-horse-resort/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
