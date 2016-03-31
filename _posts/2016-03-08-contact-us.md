@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-08T03:31:48.403Z'
-dateModified: '2016-03-08T03:31:29.977Z'
+description: info@copecommunicationsandphotography.ca
+datePublished: '2016-03-31T22:17:29.699Z'
+dateModified: '2016-03-31T22:16:46.495Z'
 author: []
 related: []
 app_links: []
