@@ -1,25 +1,24 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: "\nit is certain that being taller lends a different view.\_ one could see \nbeyond the clutter.\_ one could see further past the immediate block.\_ is\n it greater?\_ probably not, simply a different view. by \nbeing above the city-line, the vastness of a city is more easily seen.\_ \nthe capacity we possess to affect our immediate surroundings, in a very \nprofound way, becomes more evident.\n\n"
-datePublished: '2016-03-31T22:13:12.380Z'
-dateModified: '2016-03-31T22:12:38.343Z'
+datePublished: '2016-03-31T22:21:02.169Z'
+dateModified: '2016-03-31T22:17:48.519Z'
 title: seen from above
 author: []
+sourcePath: _posts/2016-03-31-seen-from-above.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-31-seen-from-above.md
-published: true
-url: seen-from-above/index.html
-_type: Article
+_type: Blurb
 
 ---
 it is certain that being taller lends a different view.  one could see 
