@@ -6,12 +6,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.5625
   brandStrength: 0.1875
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: 'CoPe '
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.7706093
+typography_spectrum: 0.7616488
 layout_spectrum: 1
