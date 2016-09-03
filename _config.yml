@@ -19,8 +19,7 @@ analytics:
   twitter: null
   google: null
   facebook: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd2c32b1-ae8f-4981-a28f-6570d8d59a32.jpg
+logo: null
 name: CoPe | communications & photography
 cta:
   bucket: null
