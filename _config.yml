@@ -1,5 +1,30 @@
-title: CoPe  | communications & photography
-purpose: []
+typography_spectrum: 0.7616488
+color:
+  saturation: 0.5625
+  brandStrength: 0.1875
+  rhythmicContrast: 0.75
+  brandColors:
+    - '#ffffff'
+    - '#000000'
+    - '#9dcd72'
+    - '#7e7e7e'
+    - '#2e2e2e'
+  lightness: 0.6875
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: CoPe | communications & photography
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +37,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.5625
-  brandStrength: 0.1875
-  rhythmicContrast: 0.75
-  brandColors:
-    - '#ffffff'
-    - '#000000'
-    - '#9dcd72'
-    - '#7e7e7e'
-    - '#2e2e2e'
-  lightness: 0.6875
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: 'CoPe '
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.7616488
-layout_spectrum: 1
+title: ''
+purpose: []
